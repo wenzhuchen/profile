@@ -1,0 +1,94 @@
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: lighter;
+  color: #01161E;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+}
+
+p {
+  font-weight: lighter;
+  color: #01161E;
+}
+
+.container {
+   max-width: 800px;
+   margin: auto;
+   padding: 10px;
+}
+.card {
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
+
+#profile_pic {
+  width: 120px;
+  border-radius: 60px;
+}
+
+table {
+  max-width: 500px;
+  font-weight: lighter;
+  font-size: 15px;
+  margin: auto;
+  text-align: left;
+}
+.table_text {
+  padding-left: 30px;
+}
+
+.list_pic {
+  width: 110px;
+  border-radius: 1px;
+  border-width:3px;
+  border-style:solid;
+  border-color: #284B63
+}
+
+img {
+    filter: contrast(80%);
+    filter: saturation(60%);
+    filter: grayscale(20%);
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+    color: #598392;
+}
+
+i {
+  font-size: 20px;
+}
+
+.list_in_line > li {
+  display: inline-block;
+
+}
+
+.list_with_icon  {
+  color: #01161E;
+  font-size: 40px;
+  font-weight: lighter;
+}
+.list_in_line {
+  padding-left: 0px;
+  padding: 0px;
+  margin-top: 0px;
+}
+
+#page_end p {
+  margin:0;
+}
+
+
+
+
